@@ -84,7 +84,7 @@ label {
   font-size: 24px;
 }
 
-.btn {
+.checkout {
   background-color: #4CAF50;
   color: white;
   padding: 12px;
@@ -96,7 +96,7 @@ label {
   font-size: 17px;
 }
 
-.btn:hover {
+.checkout:hover {
   background-color: #45a049;
 }
 
