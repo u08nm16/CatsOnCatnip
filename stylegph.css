@@ -3,6 +3,15 @@ header {
   font-family: 'Srisakdi', cursive;
   width: 100%;
 }
+.logo a {
+  color: black;
+}
+.logo a:hover {
+  color: black;
+}
+.logo a:visited {
+  color: black;
+}
 body {
   background-color: lightgray;
   font-family: 'Josefin Sans', sans-serif;
