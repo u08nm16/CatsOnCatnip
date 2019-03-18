@@ -17,7 +17,7 @@ body {
   color: black;
 }
 
-.bd-example {
+.carousel {
   width:640px;
   height:380px;
   margin-left: 400px;
@@ -32,10 +32,7 @@ body {
   margin-right: 400px;
   margin-top: 50px;
 }
-.carousel{
-  width:620px;
-  height:580px;
-}
+
 
 
 #sidenav {
