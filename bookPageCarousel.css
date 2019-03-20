@@ -53,3 +53,19 @@ body {
 #sidenav a:hover {
   color: #f1f1f1;
 }
+div.scrollmenu {
+  background-color: lightgray;
+  overflow: auto;
+  white-space: nowrap;
+  margin-bottom: 50px;
+}
+
+div.scrollmenu img {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  height: 300px;
+  width: 200px;
+}
