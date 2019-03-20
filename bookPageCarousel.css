@@ -1,7 +1,7 @@
 header {
   font-family: 'Srisakdi', cursive;
   background-color: lightpink;
-  header: 100%;
+  width: 100%;
 }
 body {
   background-color: lightgray;
